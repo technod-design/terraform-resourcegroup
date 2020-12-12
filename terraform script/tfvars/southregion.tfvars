@@ -1,0 +1,2 @@
+name ="south"
+location= "eastus"
